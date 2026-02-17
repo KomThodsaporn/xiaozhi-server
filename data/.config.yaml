@@ -20,7 +20,7 @@ server:
 manager-api:
   # 你的manager-api的地址，最好使用局域网ip
   # 如果使用docker部署，请使用填写成 http://xiaozhi-esp32-server-web:8002/xiaozhi
-  url: http://xiaozhi-web-production.up.railway.app/xiaozhi
+  url: https://xiaozhi-web-production.up.railway.app/xiaozhi
   # 你的manager-api的token，就是刚才复制出来的server.secret
   secret: 28ba78e2-c9ac-4747-b3e9-c66c05202fca
 # 默认系统提示词模板文件
