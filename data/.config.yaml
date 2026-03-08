@@ -7,5 +7,3 @@ manager-api:
   secret: 28ba78e2-c9ac-4747-b3e9-c66c05202fca
 # 默认系统提示词模板文件
 prompt_template: agent-base-prompt.txt
-selected_module:
-  LLM: "openai_assistant"
